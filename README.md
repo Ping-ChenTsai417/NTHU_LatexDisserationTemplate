@@ -1,6 +1,6 @@
 # NTHU Dissertation LaTeX Template
 
-參照國立清華大學學位論文格式範本： https://www.lib.nthu.edu.tw/use/thesis_template.html
+參照國立清華大學學位論文格式英文範本： https://www.lib.nthu.edu.tw/use/thesis_template.html
 
 A clean, easy-to-use LaTeX template for writing Doctoral dissertations and Master's thesis at National Tsing Hua University (NTHU). This template complies with NTHU's formatting requirements and supports both Chinese and English content.
 
